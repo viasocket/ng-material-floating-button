@@ -7,3 +7,5 @@ build
 ga.html
 .idea/
 npm-debug.log
+*.sublime-project
+*.sublime-workspace
